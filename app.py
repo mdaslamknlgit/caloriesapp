@@ -64,7 +64,9 @@ input_prompt = """
                is below format
 
                1. Item 1 - no of calories
-               2. Item 2 - no of calories
+               2. Item 2 - is it healthy
+               3. Describe about famous photo
+               4. Famouse person photo
                ----
                ----
                """
