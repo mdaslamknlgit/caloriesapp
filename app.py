@@ -67,6 +67,7 @@ input_prompt = """
                2. Item 2 - is it healthy
                3. Describe about famous photo
                4. Famouse person photo
+               5. I am uploading Famous person photo
                ----
                ----
                """
